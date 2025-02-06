@@ -1,0 +1,6 @@
+@DesafioPratico_Rocketseat_GestaoDeLivaria_HostAddress = http://localhost:5057
+
+GET {{DesafioPratico_Rocketseat_GestaoDeLivaria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
